@@ -1,6 +1,6 @@
 ### Opa, Bem vindos ao meu GitHub!
 
-- 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 3° Semestre na UNB
+- 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 4° Semestre na UNB
 - 📚 Estou aprendendo Typescript e NodeJS
 - 🤔 Tenho atualmente 19 anos
 - 👨‍💻 Interesse em Javascript, Typescript, backend, NodeJS, API 
