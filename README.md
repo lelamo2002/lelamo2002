@@ -1,4 +1,4 @@
-### Opa, Bem vindos ao meu GitHub!
+### Opa, Bem vindo ao meu GitHub!
 
 - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 4° Semestre na UNB
 - 📚 Estou aprendendo Typescript e NodeJS
