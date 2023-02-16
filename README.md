@@ -1,9 +1,11 @@
 ### Opa, Bem vindo ao meu GitHub!
 
-- 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 4° Semestre na UNB
-- 📚 Estou aprendendo Typescript e NodeJS
-- 🤔 Tenho atualmente 19 anos
-- 👨‍💻 Interesse em Javascript, Typescript, backend, NodeJS, API 
+- 🚀 Sou um desenvolvedor fullStack com foco em backend
+- 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 5° Semestre na UNB
+- 🤓 Tenho experiencia com Javascript, Typescript, NodeJS, React, Flutter
+- 📚 Estou me aprofundando em React e DevOps
+- 🤔 Tenho atualmente 20 anos
+- 👨‍💻 Interesse em DevOps, AWS, React-Native
 
 <div align="center">
   <a href="https://github.com/lelamo2002">
